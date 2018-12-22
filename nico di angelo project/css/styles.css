@@ -1,0 +1,116 @@
+.nico{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  margin-top: 20px
+}
+body{
+  margin: 0;
+}
+.skeleton-1{
+height:  370px;
+position: relative;
+right: 200px
+}
+.grave{
+height:360px;
+position: relative;
+left: 200px;
+}
+.head{
+  background-color: #4a4a48;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  width: 105%;
+  margin-left: -8px;
+  overflow: hidden;
+}
+.rose{
+  height: 100px;
+  position: relative;
+  bottom: 400px;
+  right: 300px;
+}
+.rose-2{
+  height: 100px;
+  position: relative;
+  bottom: 400px;
+  left: 300px;
+}
+.text-1{
+  color: 	#FEFEFF;
+
+}
+.medium{
+  background-color: #535962;
+  text-align: center;
+  height:600px;
+  font-family: 'Caveat Brush', cursive;
+  color: #FEFEFF;
+  font-size: 27px;
+  width: 105%;
+  margin-left: -8px;
+  overflow: hidden;
+}
+h1{
+  margin: 0;
+}
+
+.deth{
+  height: 300px;
+  position: relative;
+  bottom: 200px;
+  left: 500px;
+}
+.favourite-music{
+  background-color: #494949;
+  font-family: 'Permanent Marker', cursive;
+  color: #FEFEFF;
+  text-align: center;
+  font-size: 28px;
+  width: 105%;
+  margin-left: -8px;
+  overflow: hidden;
+}
+.music{
+  height: 200px;
+  position: relative;
+  bottom: 100px;
+  left: 500px;
+
+}
+.will{
+  height: 150px;
+  width: 150px;
+  float: left;
+    border-radius: 50%;
+    position: relative;
+    left: 590px;
+}
+.fav-people{
+  background-color: #393e46;
+  text-align: center;
+  font-family: 'Caveat Brush', cursive;
+  color:  #FEFEFF;
+  font-size: 30px;
+
+}
+.bianca{
+  height: 150px;
+  width: 150px;
+  position: relative;
+  top: 50px;
+  right: 250px;
+    border-radius: 50%;
+}
+.hania{
+  height: 150px;
+  width: 150px;
+  position: relative;
+  top: 45px;
+  right: 300px;
+    border-radius: 50%;
+}
+p{
+  margin: 0;
+}
